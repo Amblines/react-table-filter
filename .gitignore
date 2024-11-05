@@ -5,3 +5,4 @@ logs.log
 *.DS_STORE
 *.DS_Store
 stats.json
+.idea
