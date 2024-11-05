@@ -169,7 +169,7 @@ class TableFilter extends Component {
    * @param  {String}  key    Filter key
    */
   _updateCurrentFilter = (filter, add=true, key=undefined) => {
-    if (!isUndefined(key, true) && !isUndefined(filter, true)) {
+    if (!isUndefined(key, true) && !isUndefined(filter, false)) {
       if (isUndefined(this.currentFilters[key])) {
         this.currentFilters[key] = [];
       }
