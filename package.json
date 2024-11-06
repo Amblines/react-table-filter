@@ -1,6 +1,6 @@
 {
-  "name": "react-table-filter",
-  "version": "2.0.4",
+  "name": "@amblines/react-table-filter",
+  "version": "2.0.5",
   "description": "",
   "main": "lib/bundle.js",
   "scripts": {
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cheekujha/react-table-filter.git"
+    "url": "https://github.com/Amblines/react-table-filter.git"
   },
   "author": "cheekujha@gmail.com",
   "license": "ISC",
